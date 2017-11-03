@@ -1,0 +1,21 @@
+body {
+  margin: 3%;
+  background: #738D76;
+}
+
+#greeting {
+    background: #DAB4B2;
+    padding: 10px;
+}
+
+#paragraph {
+    background: #ffffff;
+    padding: 10px;
+}
+
+img {
+    width: 100%;
+    max-width: 1200px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
