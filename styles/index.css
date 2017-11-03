@@ -1,21 +1,21 @@
 body {
-  margin: 3%;
+  margin: 8%;
   background: #738D76;
 }
 
 #greeting {
     background: #DAB4B2;
-    padding: 10px;
+    padding: 25px;
 }
 
 #paragraph {
     background: #ffffff;
-    padding: 10px;
+    padding: 35px;
 }
 
 img {
     width: 100%;
     max-width: 1200px;
-    padding-top: 10px;
-    padding-bottom: 10px;
+    padding-top: 13px;
+    padding-bottom: 13px;
 }
